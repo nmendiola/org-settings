@@ -1,7 +1,7 @@
 # Configuration for Remove-Outside-Collaborators
 
 # Turn on Monitor Mode [SET ON BY DEFAULT]. In this mode Collaborators are not removed, only an Issue is created
-monitorOnly: true
+monitorOnly: false
 
 # Enables detection and removal of any Outside Collaborator being added to the assigned repositories
 enableCollaboratorRemoval: true
