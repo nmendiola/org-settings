@@ -1,0 +1,7 @@
+# Configuration for Add-Member-To-Team
+
+# Org to run the bot on
+orgName: github-discovery-1
+
+# Name of team to add new members to
+defaultTeam: All-Pivotal
